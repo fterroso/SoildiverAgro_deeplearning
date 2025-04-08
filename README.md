@@ -17,7 +17,7 @@ You can create a Conda Virtual Environment comprising all the python libraries t
 ## Code structucture
 The source code is included in the `src` folder.
 - `predict_wp3_wp5_cnn_dual_input_stratified.py` is the main file.
-- `results_analysis_stratified.ipynb` comprises the code to generate the plots and reports.
+- `results_analysis.ipynb` comprises the code to generate the plots and reports.
 
 
 
